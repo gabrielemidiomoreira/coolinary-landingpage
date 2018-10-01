@@ -168,10 +168,10 @@ font-family: 'Open Sans', sans-serif;
 
 .logo a {
     display: inline-block;
-}
-
-.logo a img {
-    max-width: 195px;
+    color: #fff;
+    font-size: 29px;
+    font-weight: 600;
+    
 }
 
 .main-menu {
